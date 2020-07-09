@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hello there](https://media2.giphy.com/media/KOVlHmbBA09XO/200w.gif)
+
+
 <!--
 **joshbatley/joshbatley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
